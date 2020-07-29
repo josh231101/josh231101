@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KWzvw2Q/Desktop-1-2.png" alt="Portfolio josue" />
+<img src="https://i.ibb.co/fr4Bbbb/Desktop-1.png" alt="Portfolio josue" />
 
 # :computer: Hello World! 
 
