@@ -1,4 +1,5 @@
 <img src="https://i.ibb.co/KWzvw2Q/Desktop-1-2.png" alt="Portfolio josue" />
+
 # :computer: Hello World! 
 
 Full-stack web developer based in Tampico, MX. My passion for technology started when I was a 7-year-old kid when I had my first windows vista computer. My coding carrer started in 2018 when I learned my very first programming language: C. In 2019 I learned Java with Android Studio. In 2020 I started my web development bootcamp. Right now I am developing my skills in React and Flexbox.
