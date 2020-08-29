@@ -22,9 +22,7 @@ Full-stack web developer based in Tampico, MX. My passion for technology started
 |---|---|---|---|---|---|---|---|---|---|---|
 
 
-### Android Development
-| [<img src="https://i.stack.imgur.com/E2x1b.png" alt="Android Studio logo" width="24">](https://github.com/josh231101/WeatherApp)  | [<img src="https://sdc.csc.ncsu.edu/img/techres/java-logo.svg" alt="Java logo" width="24">](https://github.com/josh231101/WeatherApp) |  [<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="Firebase logo" width="24">](https://github.com/josh231101/WeatherApp)
-|---|---|---|
+
 
 ## :mailbox_closed: Get In Touch
 
