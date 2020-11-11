@@ -2,7 +2,12 @@
 
 # :computer: Hello World! 
 
-Full-stack web developer based in Tampico, MX. My passion for technology started when I was a 7-year-old kid when I had my first windows vista computer. My coding carrer started in 2018 when I learned my very first programming language: C. In 2019 I learned Java with Android Studio. In 2020 I started my web development bootcamp. Right now I am developing my skills on the MERN stack!! Working on a Fitness club project. Developing iestudevs.com with React. Producing web development content for "Un Francisco en San Francisco"
+Full-stack web developer based in Tampico, MX. My passion for technology started when I was a 7-year-old kid when I had my first windows vista computer. My coding carrer started in 2018 when I learned my very first programming language: C. In 2019 I learned Java with Android Studio. In 2020 I started my web development bootcamp. Right now I am developing my skills on the MERN stack!! 
+
+## :briefcase: Working On
+:computer: Fitness Club (MERN stack)<br>
+:computer: Developing [iestudevs.com](iestudevs) <br>
+:computer: Working for Francisco Martinez, Frontend engineer at Anaplan<br>
 
 ## :boy: Talking about personal stuff
 :computer: Passion for coding<br>
