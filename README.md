@@ -6,7 +6,7 @@ Full-stack web developer based in Tampico, MX. My passion for technology started
 
 ## :briefcase: Working On
 :computer: Fitness Club (MERN stack)<br>
-:computer: Developing [iestudevs.com](iestudevs) <br>
+:computer: Developing [iestudevs](https://iestudevs.com) <br>
 :computer: Working for Francisco Martinez, Frontend engineer at Anaplan<br>
 
 ## :boy: Talking about personal stuff
