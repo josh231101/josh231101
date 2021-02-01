@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/fr4Bbbb/Desktop-1.png" alt="Portfolio josue" />](https://josueportfolio-919e8.web.app/)
+[<img src="https://i.ibb.co/fr4Bbbb/Desktop-1.png" alt="Portfolio josue" />](https://heyiamjosue.me/)
 
 # :computer: Hello World! 
 
@@ -8,6 +8,7 @@ Full-stack web developer based in Tampico, MX. My passion for technology started
 :computer: Fitness Club (MERN stack)<br>
 :computer: Developing [iestudevs](https://iestudevs.com) <br>
 :computer: Working for Francisco Martinez, Frontend engineer at Anaplan<br>
+:computer: Full Stack developer at IEST Anahuac<br>
 
 ## :boy: Talking about personal stuff
 :computer: Passion for coding<br>
