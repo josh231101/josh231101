@@ -1,4 +1,3 @@
-[<img src="https://i.ibb.co/fr4Bbbb/Desktop-1.png" alt="Portfolio josue" />](https://heyiamjosue.me/)
 
 # :computer: Hello World! 
 
